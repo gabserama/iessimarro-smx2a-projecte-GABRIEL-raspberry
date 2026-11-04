@@ -1,4 +1,4 @@
-# Servidor domestic amb raspberry pi per a una associacio -- PROJECTE INTERMODULAR SMX
+# Servidor domestic amb raspberry pi per a una associació -- PROJECTE INTERMODULAR SMX
 
 
 Una associacio xicoteta necessita compartir arxius i fer copies de seguretat
