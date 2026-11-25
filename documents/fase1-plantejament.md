@@ -12,8 +12,10 @@ les dades dels socis. L'associació té poc pressupost i no pot contractar un se
 |---|------|--------------------------------------|------------------|
 | 1 | Servidor domèstic amb Raspberry Pi | L'associació necessita compartir arxius i fer còpies de 
 seguretat amb poc pressupost | MP01, MP03, MP05 |
-| 2 | (IDEA 2 DE LA PRÀCTICA 3) | (qui la necessita i per què) | (mòduls) |
-| 3 | (IDEA 3 DE LA PRÀCTICA 3) | (qui la necessita i per què) | (mòduls) |
+| 2 | Tenda de ordenadors barats | Gent jove que necessita un ordenador pero te poc pressupost
+ | MP01, MP03, MP05 |
+| 3 | Taller de informatica reparacions i manteniments | 
+Gent amb algun dispositiu trencat i que vullga repararlo. | MP01, MP05, MP03 |
 
 ## Idea triada i justificació
 
