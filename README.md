@@ -25,6 +25,11 @@ Raspberry Pi que cobrisca aquestes necessitats de manera segura.
 
 - `configuracio/` - Configuracions tecniques (quan se execute el projecte)
 
+- `documents/planols/` - Plànols i esquemes
+
+- `proves/` - Pla de proves
+
+- `evidencies/` - Captures i evidències de l'execució
 ## Estat del projecte
 
 | Fase | Document | Estat |
