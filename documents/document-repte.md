@@ -28,6 +28,11 @@ i no pot contractar un servidor professional.
 Dissenyar i implementar un servidor domestic basat en una raspberry pi que permeta a la associacio compartir arxius,
 fer copies de seguretat automatiques i protegir les seues dades,amb un cost reduit.
 
+## Objectiu general
+
+Implementar un servidor domèstic de baix cost basat en una Raspberry Pi que permeta a l'associació 
+compartir arxius de manera segura i disposar de còpies de seguretat automàtiques.
+
 ## Objectius especifics
 1.Muntar i preparar el maquinari de la raspberry pi i el disc extern.
 2.Instalar el sistema operatiu i configurar la xarxa amb IP fixa i acces SSH.
@@ -44,6 +49,28 @@ fer copies de seguretat automatiques i protegir les seues dades,amb un cost redu
 - MP01-RA1: Munta equips microinformatics i en verifica el funcionament.
 - MP03-RA1: Instala i configura sistemes operatius i les seues xarxes basiques.
 - MP05-RA1: Instala i configura serveis en xarxa i aplica mesures de seguretat.
+
+
+## Criteris d'avaluació per RA
+
+| Mòdul | RA | Criteri d'avaluació | Tasca que l'evidencia |
+|-------|----|---------------------|-----------------------|
+| MP01 | RA1 | La Raspberry Pi està muntada amb refrigeració i arranca correctament | #3 · Muntatge 
+de la Raspberry Pi |
+| MP01 | RA1 | El disc extern està formatat i es munta automàticament | #6 · Preparació del disc
+extern per a còpies |
+| MP03 | RA1 | El sistema operatiu està instal·lat i actualitzat | #4 · Instal·lació del sistema
+operatiu |
+| MP03 | RA1 | El servidor té IP fixa i s'hi accedeix per SSH | #5 · Configuració de la xarxa
+(IP fixa i SSH) |
+| MP05 | RA1 | La carpeta compartida funciona amb permisos per usuari | #7 · Servei d'arxius
+compartits |
+| MP05 | RA1 | Les còpies automàtiques s'executen i es poden restaurar | #8 · Còpies de seguretat
+automàtiques |
+| MP05 | RA1 | El tallafocs, els usuaris i l'SSH amb clau estan configurats | #9 · Seguretat
+bàsica: tallafocs, usuaris i SSH |
+| PI | RA2 | El pressupost és realista i compara proveïdors | #2 · Estudi de requisits i pressupost
+del maquinari |
 
 ## Criteris de qualitat del repte
 - Proximitat/rellevancia: Si
