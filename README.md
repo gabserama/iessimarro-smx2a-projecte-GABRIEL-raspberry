@@ -41,3 +41,6 @@ Raspberry Pi que cobrisca aquestes necessitats de manera segura.
 | 5 · Metodologia | metodologia.md | Pendent |
 | 6 · Avaluació | memoria/ | Pendent |
 
+## Seguiment
+
+- Tauler Kanban: https://github.com/users/gabserama/projects/2/views/1
