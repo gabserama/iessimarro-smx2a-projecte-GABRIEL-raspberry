@@ -32,11 +32,3 @@ Resum: material 230,88 € + mà d'obra 720,00 € (36 h) = 950,88 € sense IVA
 
 Justificació de la tria: el servidor només ha d'executar Samba, SSH, el tallafocs i les còpies amb rsync, que consumeixen poca memòria, de manera que 4 GB són suficients. L'opció B costa uns 51 € més i només compensaria si en el futur s'hi volgueren afegir serveis pesats (núvol privat, contenidors o multimèdia). A més, el preu de les Raspberry Pi varia molt segons la botiga: a PcComponentes el model de 4 GB arriba a uns 171 €, per això s'ha triat el distribuïdor oficial RS Online.
 
-## Fonts
-
-- Raspberry Pi 5 4 GB i 8 GB: https://es.rs-online.com/web/p/raspberry-pi/0219253 · https://es.rs-online.com/web/p/raspberry-pi/0219255
-- Font 27 W: https://www.ldlc.com/es-es/ficha/PB00574325.html
-- Carcassa oficial: https://www.ldlc.com/es-es/ficha/PB00574327.html
-- microSD: https://www.mediamarkt.es/es/product/_tarjeta-micro-sd-sandisk-extreme-go-64-gb-hasta-170-mbs-de-lectura-uhs-i-videos-en-5k-y-4uhd-u3-v30-a2-c10-apta-drones-oro-1666858.html
-- Disc extern: https://www.pccomponentes.com/wd-elements-1tb-25-usb-30
-- Cable: https://www.pccomponentes.com/cable-de-red-lanberg-pcu6-10cc-0200-w-cat6-2-m-u-utp-rj-45-blanco
